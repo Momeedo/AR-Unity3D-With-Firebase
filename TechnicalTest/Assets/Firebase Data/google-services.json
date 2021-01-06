@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025804499069",
+    "firebase_url": "https://juniornetworktechnicaltest-default-rtdb.firebaseio.com",
+    "project_id": "juniornetworktechnicaltest",
+    "storage_bucket": "juniornetworktechnicaltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025804499069:android:95ad34053419fde0e79914",
+        "android_client_info": {
+          "package_name": "com.juniornetwork.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025804499069-b2r66hldj65v2ugnt45r0jsr89ae3bj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWo3VGhZQsiL0qEbJt4q24GGHP5U8Svjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025804499069-b2r66hldj65v2ugnt45r0jsr89ae3bj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025804499069-6ede9fd0g1g2rmsj31v46q3v0tbit6p2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juniornetwork.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

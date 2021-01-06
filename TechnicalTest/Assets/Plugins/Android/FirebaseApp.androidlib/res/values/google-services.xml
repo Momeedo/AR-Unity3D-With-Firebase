@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://juniornetworktechnicaltest-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1025804499069</string>
+  <string name="google_storage_bucket" translatable="false">juniornetworktechnicaltest.appspot.com</string>
+  <string name="project_id" translatable="false">juniornetworktechnicaltest</string>
+  <string name="google_api_key" translatable="false">AIzaSyAWo3VGhZQsiL0qEbJt4q24GGHP5U8Svjw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWo3VGhZQsiL0qEbJt4q24GGHP5U8Svjw</string>
+  <string name="google_app_id" translatable="false">1:1025804499069:android:95ad34053419fde0e79914</string>
+  <string name="default_web_client_id" translatable="false">1025804499069-b2r66hldj65v2ugnt45r0jsr89ae3bj4.apps.googleusercontent.com</string>
+</resources>
